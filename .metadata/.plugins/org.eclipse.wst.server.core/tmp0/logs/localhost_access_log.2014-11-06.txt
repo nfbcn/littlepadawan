@@ -1,0 +1,6 @@
+127.0.0.1 - - [06/Nov/2014:00:02:24 -0300] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [06/Nov/2014:00:02:31 -0300] "GET /Littlepadawan/index.html HTTP/1.1" 304 -
+127.0.0.1 - - [06/Nov/2014:00:02:43 -0300] "GET /Littlepadawan/TesteServlet?nome=jlkjkljlkj&Salvar=Enviar+Consulta HTTP/1.1" 500 7876
+127.0.0.1 - - [06/Nov/2014:00:05:13 -0300] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [06/Nov/2014:00:05:20 -0300] "GET /Littlepadawan/index.html HTTP/1.1" 304 -
+127.0.0.1 - - [06/Nov/2014:00:05:49 -0300] "GET /Littlepadawan/TesteServlet?nome=jlkjkljlkjss&Salvar=Enviar+Consulta HTTP/1.1" 404 1036
