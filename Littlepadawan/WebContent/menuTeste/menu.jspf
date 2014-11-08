@@ -1,0 +1,10 @@
+<ul>
+    <li style=list-style-type:none;><a href="/SistemaDeProvas_alfa/professor/telaProfessor.jsp">
+            <input type="image" src="imgs/teacher.png" name="alterar" title="Professor" /></a></li>
+    <li style=list-style-type:none;><a href="/SistemaDeProvas_alfa/aluno/telaAluno.jsp">
+            <input type="image" src="imgs/student.png" name="alterar" title="Aluno" />
+        </a></li>
+    <li style=list-style-type:none;><a href="/SistemaDeProvas_alfa/cadastro.jsp">
+            <input type="image" src="imgs/singin.png" name="alterar" title="Cadastre-se" />
+        </a></li>
+</ul>

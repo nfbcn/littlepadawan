@@ -1,0 +1,75 @@
+#cabecalhopadrao {
+    margin: 0 auto;  
+    width: 980px;
+    position: relative;
+    overflow: visible;
+}
+
+body {
+    margin: 0 auto;  
+    width: 980px;
+    position: relative;
+    overflow: visible;
+    /*background-color: #D0F5A9;*/
+    background-image: url("../imgs/bglistra.jpg");
+    background-repeat: repeat;
+    font-family: Gisha, Open Type, sans-serif;
+    font-size:14px;
+    color:#006400;
+}
+
+fieldset th {
+    text-align: right;	
+}
+fieldset {
+    background-color: #F0FFF0;
+
+
+}
+fieldset td[colspan] {
+    text-align: center;
+
+}
+fieldset table {
+    width: 100%;
+}
+
+legend {
+    font-family: Gisha, Open Type, sans-serif;
+    font-size:34px;
+    color:#fff;
+    padding:2px 5px;
+    font-weight:bold;
+    letter-spacing:5px;
+    text-align:center;
+    background-color:#228B22;
+    border:1px solid #036;
+}
+
+#lista {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 90%;	
+}
+#lista th {
+    border: 1px solid black;
+    text-align: center;
+    font-size:16px;    
+    font-weight:bold;
+}
+
+#lista td {
+    border: 1px solid black;
+    text-align: center;      
+}
+
+a {
+    text-decoration: none;
+}
+
+.voltar{
+    font-size:26px;
+    color:#006400;
+    font-weight:bold;
+    float: right;   
+}

@@ -1,0 +1,138 @@
+/* 
+    Document   : telaprofessorcss
+    Created on : 05/06/2013, 00:03:57
+    Author     : Lucas Fábio
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#cabecalhopadrao {
+    margin: 0 auto;  
+    width: 980px;
+    position: relative;
+    overflow: visible;
+}
+
+body {
+    margin: 0 auto;  
+    width: 980px;
+    position: relative;
+    overflow: visible;
+   /*background-color: #D0F5A9;*/
+    background-image: url("../imgs/bglistra.jpg");
+    background-repeat: repeat;
+    font-family: Gisha, Open Type, sans-serif;
+    font-size:14px;
+    color:#006400;
+}
+.master {
+    background-color: #F0FFF0;
+}
+
+legend {
+    font-family: Gisha, Open Type, sans-serif;
+    font-size:18px;
+    color:#fff;
+    padding:2px 5px;
+    font-weight:bold;
+    letter-spacing:5px;
+    text-align:center;
+    background-color:#228B22;
+    border:1px solid #036;
+    border-radius: 5px;
+
+}
+
+.toplegend {
+    font-family: Gisha, Open Type, sans-serif;
+    font-size:34px;
+    color:#fff;
+    padding:2px 5px;
+    font-weight:bold;
+    letter-spacing:5px;
+    text-align:center;
+    background-color:#228B22;
+    border:1px solid #036;
+}
+
+#colunaesquerda {
+    float: left;
+    position: relative;
+    width: 450px;
+}
+
+#colunadireita {
+    float: right;
+    position: relative;
+    width: 450px;
+}
+
+.opcoeslegend {
+    border-radius: 5px;
+    font-family: Gisha, Open Type, sans-serif;
+    font-size:24px;
+    color:#fff;
+    padding:2px 5px;
+    font-weight:bold;
+    letter-spacing:5px;
+    text-align:center;
+    background-color:#228B22;
+    border:1px solid #036;
+}
+
+.dir {
+    background-color: #D0F5A9;
+    border-radius: 10px;
+    position: absolute;
+    top:50px;
+    right: 50px;
+    font-size:22px;
+    color:#006400;
+    font-weight:bold
+}
+
+.sel {
+    background-color: #D0F5A9;
+    border-radius: 10px;
+    position: absolute;
+    top:50px;
+    right: 50px;
+    font-size:14px;
+    color:#006400;
+    font-weight:bold
+}
+
+.sellegend {
+    font-family: Gisha, Open Type, sans-serif;
+    font-size:18px;
+    color:#fff;
+    font-weight:bold;
+    text-align:center;
+    background-color:#228B22;
+    border:1px solid #036;
+    border-radius: 5px;
+
+}
+
+.botaodeslogar {
+    position: absolute;
+    top:350px;
+    right: 30px;
+}
+
+a {
+    text-decoration: none;
+    font-size:22px;
+    color:#006400;
+    font-weight:bold
+}
+
+.botaoavancar {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:14px;
+    background-color:#228B22;
+    color:#fff;
+    font-weight:bold;
+    border-radius: 5px;
+}
+

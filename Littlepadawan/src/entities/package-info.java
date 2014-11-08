@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author marte
- *
- */
-package entities;

@@ -1,0 +1,11 @@
+<ul> <!--
+    <li style=list-style-type:none;><a href="/SistemaDeProvas_alfa/professor/editar.jsp">
+            <input type="image" src="../imgs/editdataicon.png" name="alterar" title="Editar Dados" />   Editar Dados</a></li>
+     -->
+    <li style=list-style-type:none;><a href="/SistemaDeProvas_alfa/professor/inserir.jsp">
+            <input type="image" src="../imgs/inserticon.png" name="alterar" title="Inserir Novas Questões" />   Inserir Questões</a></li>
+            <li style=list-style-type:none;><form action="/SistemaDeProvas_alfa/BuscarResultadoServlet" method="post">
+                    <input type="image" src="../imgs/checkresulticon.png" name="alterar" title="Ver Resultados"  />   Visualizar Resultados</form></li>
+    <li style=list-style-type:none;><form action="/SistemaDeProvas_alfa/AtualizarServlet" method="post">
+            <input type="image" src="../imgs/questionlisticon.png" name="alterar" title="Lista de Questões" />   Visualizar Questões</form></li>
+</ul>
