@@ -1,0 +1,6 @@
+<ul>
+    <li style=list-style-type:none;><a href="/SistemaDeProvas_alfa/cadastroAluno.jsp">
+            <input type="image" src="imgs/student.png" name="alterar" title="Cadastrar Aluno" /></a></li>
+    <li style=list-style-type:none;><a href="/SistemaDeProvas_alfa/cadastroProfessor.jsp">
+            <input type="image" src="imgs/teacher.png" name="alterar" title="Cadastrar Professor" /></a></li>
+</ul>

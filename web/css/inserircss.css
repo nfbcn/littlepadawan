@@ -1,0 +1,58 @@
+#cabecalhopadrao {
+    margin: 0 auto;  
+    width: 980px;
+    position: relative;
+    overflow: visible;
+}
+
+body {
+    margin: 0 auto;  
+    width: 980px;
+    position: relative;
+    overflow: visible;
+    /*background-color: #D0F5A9;*/
+    background-image: url("../imgs/bglistra.jpg");
+    background-repeat: repeat;
+    font-family: Gisha, Open Type, sans-serif;
+    font-size:14px;
+    color:#006400;
+}
+
+fieldset {
+    background-color: #F0FFF0;
+}
+
+legend {
+    font-family: Gisha, Open Type, sans-serif;
+    font-size:34px;
+    color:#fff;
+    padding:2px 5px;
+    font-weight:bold;
+    letter-spacing:5px;
+    text-align:center;
+    background-color:#228B22;
+    border:1px solid #036;
+}
+
+
+
+#colunaesquerda {
+    float: left;
+    position: relative;
+    width: 450px;
+}
+
+#colunadireita {
+    float: right;
+    position: relative;
+    width: 450px;
+}
+
+.botaoenviar {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px;
+    background-color:#228B22;
+    color:#fff;
+    font-weight:bold;
+}
+
